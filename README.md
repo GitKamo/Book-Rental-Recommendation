@@ -1,4 +1,4 @@
-# [Real Industry Projects] Book-Rental-Recommendation
+# [Real Industry Projects] Book-Rental-Recommendation©
 DESCRIPTION
 
 Book Rent is the largest online and offline book rental chain in India. They provide books of various genres, such as thrillers, mysteries, romances, and science fiction. The company charges a fixed rental fee for a book per month. Lately, the company has been losing its user base. The main reason for this is that users are not able to choose the right books for themselves. The company wants to solve this problem and increase its revenue and profit. 
