@@ -1,11 +1,11 @@
 # [Real Industry Projects] Book-Rental-Recommendation
 DESCRIPTION
 
-Book Rent is the largest online and offline book rental chain in India. They provide books of various genres, such as thrillers, mysteries, romances, and science fiction. The company charges a fixed rental fee for a book per month. Lately, the company has been losing its user base. The main reason for this is that users are not able to choose the right books for themselves. The company wants to solve this problem and increase its revenue and profit. 
+Book Rent is the largest online and offline book rental chain in Australia. They provide books of various genres, such as thrillers, mysteries, romances, and science fiction. The company charges a fixed rental fee for a book per month. Lately, the company has been losing its user base. The main reason for this is that users are not able to choose the right books for themselves. The company wants to solve this problem and increase its revenue and profit. 
 
 Project Objective:
 
-I, as an ML expert, focused on improving the user experience by personalizing it to the user's needs. I had to model a recommendation engine so that users get recommendations for books based on the behavior of similar users. This ensured that users are renting the books based on their tastes and traits.
+I, as an ML expert, had to focus on improving the user experience by personalizing it to the user's needs. I had to model a recommendation engine so that users get recommendations for books based on the behavior of similar users. This ensured that users are renting the books based on their tastes and traits.
 
 Note: I performed user-based collaborative filtering and item-based collaborative filtering.
 
