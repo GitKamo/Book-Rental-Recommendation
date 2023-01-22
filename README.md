@@ -1,4 +1,4 @@
-# [Real Industry Projects] Book-Rental-Recommendation
+#  Book-Rental-Recommendation
 
 I, as an ML expert, focused on improving the user experience of Book Rent, the largest online and offline book rental chain in Australia, by personalizing it to the user's needs. My goal was to model a recommendation engine so that users would get recommendations for books based on the behavior of similar users. This would ensure that users were renting books based on their tastes and preferences, which would ultimately increase the company's revenue and profit.
 
